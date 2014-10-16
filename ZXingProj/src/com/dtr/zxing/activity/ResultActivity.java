@@ -1,10 +1,3 @@
-/**
- * 	苏州科达科技股份有限公司-监控产品线-门店业务开发组
- *
- *  		Android Developer
- *
- *  Copyright (c) 1995-2014 All Rights Reserved.
- */
 package com.dtr.zxing.activity;
 
 import android.app.Activity;
@@ -19,16 +12,6 @@ import android.widget.TextView;
 import com.dtr.zxing.R;
 import com.dtr.zxing.decode.DecodeThread;
 
-/**
- * 邮箱： chentao@kedacom.com
- *
- * 作者： 陈涛
- *
- * 日期： 2014年10月16日
- * 
- * 描述：
- * 
- */
 public class ResultActivity extends Activity {
 
 	private ImageView mResultImage;
